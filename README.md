@@ -3,7 +3,7 @@
 <p><strong>Starfall Rocket Lander</strong> is a 2D physics-based landing game built in Unity, inspired by classic platformer strategic series. Pilot a small lander ship, manage your fuel, and use precise thruster control to touch down safely on landing pads without crashing into the terrain.</p>
 
 <p align="center">
-  <img src="Images/logo.png" alt="Starfall Rocket Lander Logo" height = 400 width = 700/>
+  <img src="Images/Logo.png" alt="Starfall Rocket Lander Logo" height = 400 width = 700/>
 </p>
 
 
@@ -88,7 +88,7 @@
 <p align="center">
   <img src="Images/ss1.png" height = 500 width = 900/>
   <img src="Images/ss2.png" height = 500 width = 900/>
-  <img src="Images/StarfallRocket.gif" height = 500 width = 900/>
+  <img src="Images/StarfallRocket.gif" height = 400 width = 700/>
 </p>
 
 
@@ -96,7 +96,6 @@
 
 
 
-<br>
 <h2>🖥️ How to Run in Unity</h2>
 <ol>
   <li>Clone or download the repository.</li>
@@ -125,7 +124,8 @@
 
 
 
-
+<h2>🔗Demo Video Link</h2>
+<p><strong>Link: <a href="https://drive.google.com/file/d/1T0Ld8UrKdR9R6sQ6QGXxCzEvW4Td8xoK/view">VIDEO DEMO</a></strong></p>
 
 
 
